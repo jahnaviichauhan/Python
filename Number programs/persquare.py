@@ -7,7 +7,7 @@ def isPerfectSquare(x):
         return ((sr*sr) == x)
     return false
  
-x= float(input('Enter value')
+x= float(input('Enter value'))
 if (isPerfectSquare(x)):
     print("Yes")
 else:
